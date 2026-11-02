@@ -32,6 +32,6 @@ flow lend -> lent
 | Python, command line, MCP server | `pip install tok-lang` |
 | Rust | `cargo install tok-cli` |
 | R | `install.packages("tokr")` |
-| Julia | `Pkg.add(["Tok", "tok_jll"])` |
+| Julia | `Pkg.add(["TokLang", "tok_jll"])` |
 | VS Code | extension **tok** (`tok-lang-bpm.tok`) |
 | AI agents | `/plugin marketplace add tok-lang-bpm/tok-agent` |
